@@ -1,0 +1,7 @@
+C:\Users\brAiN\source\repos\Projekt1_Kawęcki49105\Projekt1_Kawęcki49105\bin\Debug\Projekt1_Kawęcki49105.exe.config
+C:\Users\brAiN\source\repos\Projekt1_Kawęcki49105\Projekt1_Kawęcki49105\bin\Debug\Projekt1_Kawęcki49105.exe
+C:\Users\brAiN\source\repos\Projekt1_Kawęcki49105\Projekt1_Kawęcki49105\bin\Debug\Projekt1_Kawęcki49105.pdb
+C:\Users\brAiN\source\repos\Projekt1_Kawęcki49105\Projekt1_Kawęcki49105\obj\Debug\Projekt1_Kawęcki49105.csprojAssemblyReference.cache
+C:\Users\brAiN\source\repos\Projekt1_Kawęcki49105\Projekt1_Kawęcki49105\obj\Debug\Projekt1_Kawęcki49105.csproj.CoreCompileInputs.cache
+C:\Users\brAiN\source\repos\Projekt1_Kawęcki49105\Projekt1_Kawęcki49105\obj\Debug\Projekt1_Kawęcki49105.exe
+C:\Users\brAiN\source\repos\Projekt1_Kawęcki49105\Projekt1_Kawęcki49105\obj\Debug\Projekt1_Kawęcki49105.pdb
